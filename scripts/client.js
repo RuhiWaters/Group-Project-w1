@@ -1,4 +1,4 @@
-onsole.log('JS sourced');
+console.log('JS sourced');
 
 //### Activity
 
